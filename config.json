@@ -1,0 +1,15 @@
+{
+    "title": "ets",
+    "baseURL": "https:\/\/asdf.asfd.asfd",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758403",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "asfd.asfd"
+    }
+}
